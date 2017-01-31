@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.60 Beta 1 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Address Book"/>
+  </section>
+  <section name="data">
+    <explorer view="..\..\Program Files (x86)\PureBasic\Examples\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2017-01-31 08:02" user="DaveSandy" host="MEDIAPC"/>
+  </section>
+  <section name="files">
+    <file name="CDPrint.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="8e337b54c52d08e7c1ffe87b24585137"/>
+    </file>
+    <file name="DCTool.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="5f9dfac116ce57c467870a4af5025a12"/>
+    </file>
+    <file name="dlgSelectDate.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="d0cb5e6b05b598f17202960b6026de8d"/>
+    </file>
+    <file name="PageSetup.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="eda0911fcc53fe7b3c443e9e6c3175d4"/>
+    </file>
+    <file name="SearchForm.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="2de06a1472de68f79ea30592bd24c4ec"/>
+    </file>
+    <file name="WinAddMain.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="905e77307e1d643abb84877de16fc60c"/>
+    </file>
+    <file name="dlgHelpViewer.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="df7985e0025e7e74d31ed9721ba9fc83"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="WinAddMain.pb"/>
+      <outputfile value=""/>
+      <executable value="..\..\My Address Book\Address Book.exe"/>
+      <options xpskin="1" debug="1"/>
+      <icon enable="1">Resources\address_32.ico</icon>
+    </target>
+  </section>
+</project>
